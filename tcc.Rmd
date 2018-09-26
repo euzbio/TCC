@@ -34,6 +34,18 @@ O exame já era utilizado por algumas instituições de Ensino Superior como ins
 
 Em 2017 a prova contou com 180 questões e uma proposta de redação, sendo aplicadas em dois domingos seguidos, porém em edições anteriores ela foi aplicada em dois dias seguidos (sábado e domingo). No primeiro dia, os estudantes recebem  um caderno de questões com com as provas de Linguagens, Códigos e suas Tecnologias e Redação e de Ciências Humanas e suas Tecnologias, já no segundo dia um caderno com as provas Ciências da Natureza e suas Tecnologias e Matemática e suas Tecnologias. A Tabela 1 apresenta uma descrição das Áreas de conhecimento e componentes curriculares do ENEM.
 
+##### **Tabela 1** – Descrição das Áreas de Conhecimento e Componentes Curriculares do Enem.
+
+
+| Área do conhecimento 	| Componentes Curriculares 	|
+|:---------------------------------------:	|:-----------------------------------------------------------------------------------------------------------------------------------------:	|
+| Linguagens, Códigos e suas tecnologias 	| Língua Portuguesa, Literatura, Língua Estrangeira (Inglês ou Espanhol), Artes, Educação Física e Tecnologias da Informação e Comunicação. 	|
+| Ciências Humanas e suas tecnologias 	| História, Geografia, Filosofia e Sociologia. 	|
+| Ciências da Natureza e suas tecnologias 	| Química, Física e Biologia. 	|
+| Matemática e suas tecnologias 	| Matemática. 	|
+
+**Nota Fonte**:  Microdados do Enem 2017
+
 Houve ainda uma segunda aplicação do Enem 2017, ocorrendo nos dias 12 e 13 de dezembro de 2017. Esta data foi destinada para Pessoas Privadas de Liberdade e Jovens sob Medida Socioeducativa que inclua privação de liberdade – PPL, e também  a participantes com direito à reaplicação.
 Neste ano além das provas objetivas e da redação, os participantes do Enem respondem a um questionário que contempla questões sobre seu nível socioeconômico, família, educação e trabalho, havendo uma diminuição no número de questões do questionário, contemplando 27 questões no total.
 
