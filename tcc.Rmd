@@ -11,6 +11,10 @@ number_sections: T
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), por intermédio da Diretoria de Avaliação da Educação Básica, em cumprimento da sua missão de desenvolver e disseminar informações sobre os exames e avaliações da educação básica, disponibiliza os Microdados do Enem 2017.
 
 ## 1.1 Delimitação do tema
+Pensar no que escrever.
+
+# 2 Revisão Bibliográfica
+
 Criado em 1998, o Exame Nacional do Ensino Médio (Enem) tem como objetivo verificar se seus participantes apresentam domínio dos princípios científicos e tecnológicos ao final do ensino médio, , domínio dos princípios científicos e tecnológicos que presidem a produção moderna e se detêm conhecimento das formas contemporâneas de linguagem. 
 Seus resultados deverão possibilitar: 
 
@@ -26,17 +30,21 @@ V - a sua utilização como instrumento de seleção para ingresso nos diferente
  
 VI - o desenvolvimento de estudos e indicadores sobre a educação brasileira. 
 
-O exame já era utilizado por algumas instituições de Ensino Superior como instrumento de seleção para o ingresso de estudantes, quando em 2009 passou pela reformulação a fim de democratizar o acesso. A partir de então muitas outras universidades federais passaram a utiliza-lo como método de ingresso através do SISU.Reformularam-se as Matrizes de Referência do Exame, que passaram a ser estruturadas por competências em quatro áreas do conhecimento – Linguagens, Códigos e suas Tecnologias, Matemática e suas Tecnologias, Ciências Humanas e suas Tecnologias e Ciências da Natureza e suas Tecnologias –, apresentando, ainda, eixos cognitivos comuns a todas as áreas. Essa mesma reformulação permitiu que obedecendo a a Lei de Diretrizes e Bases da Educação Nacional (Lei 9.394/1996), alunos pudessem utilizar a prova como certificação de conclusão do Ensino Médio, porém em 2017 a prova deixou de ter esta atribuição.
+O exame já era utilizado por algumas instituições de Ensino Superior como instrumento de seleção para o ingresso de estudantes, quando em 2009 passou pela reformulação a fim de democratizar o acesso. A partir de então muitas outras universidades federais passaram a utilizá-lo como método de ingresso através do SISU. Reformularam-se as Matrizes de Referência do Exame, que passaram a ser estruturadas por competências em quatro áreas do conhecimento – Linguagens, Códigos e suas Tecnologias, Matemática e suas Tecnologias, Ciências Humanas e suas Tecnologias e Ciências da Natureza e suas Tecnologias –, apresentando, ainda, eixos cognitivos comuns a todas as áreas. Essa mesma reformulação permitiu que obedecendo a Lei de Diretrizes e Bases da Educação Nacional (Lei 9.394/1996), alunos pudessem utilizar a prova como certificação de conclusão do Ensino Médio, porém em 2017 a prova deixou de ter esta atribuição.
 
-Em 2017 a prova contou com 180 questões e uma proposta de redação, sendo aplicadas em dois domingos seguidos, porém em edições anteriores ela foi aplicada em dois dias seguidos (sábado e domingo). No primeiro dia, os estudantes recebem  um caderno de questões com com as provas de Linguagens, Códigos e suas Tecnologias e Redação e de Ciências Humanas e suas Tecnologias, já no segundo dia um caderno com as provas Ciências da Natureza e suas Tecnologias e Matemática e suas Tecnologias. O quadro 1 apresenta uma descrição das Áreas de conhecimento e componentes curriculares do ENEM
+Em 2017 a prova contou com 180 questões e uma proposta de redação, sendo aplicadas em dois domingos seguidos, porém em edições anteriores ela foi aplicada em dois dias seguidos (sábado e domingo). No primeiro dia, os estudantes recebem  um caderno de questões com com as provas de Linguagens, Códigos e suas Tecnologias e Redação e de Ciências Humanas e suas Tecnologias, já no segundo dia um caderno com as provas Ciências da Natureza e suas Tecnologias e Matemática e suas Tecnologias. A Tabela 1 apresenta uma descrição das Áreas de conhecimento e componentes curriculares do ENEM.
+
+Houve ainda uma segunda aplicação do Enem 2017, ocorrendo nos dias 12 e 13 de dezembro de 2017. Esta data foi destinada para Pessoas Privadas de Liberdade e Jovens sob Medida Socioeducativa que inclua privação de liberdade – PPL, e também  a participantes com direito à reaplicação.
+Neste ano além das provas objetivas e da redação, os participantes do Enem respondem a um questionário que contempla questões sobre seu nível socioeconômico, família, educação e trabalho, havendo uma diminuição no número de questões do questionário, contemplando 27 questões no total.
+
 
 \newpage
 
 # Referências
 
-INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA. Microdados do Enem 2017. Brasília: Inep, 2017. Disponível em: < http://portal.inep.gov.br/web/guest/microdados>. Acesso em: 01 nov. 2017.
-
 BRASIL/MEC. Lei nº. 9.394, de 20 de dezembro de 1996. Lei de Diretrizes e Bases da Educação Nacional. Brasília, DF: 20 de dezembro de 1996. 
+
+INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA. Microdados do Enem 2017. Brasília: Inep, 2017. Disponível em: < http://portal.inep.gov.br/web/guest/microdados>. Acesso em: 01 nov. 2017.
 
 NERY,Thiago Ribeiro. Infraestrutura das escolas como fator em um modelo multinível das
 proficiências dos alunos do ensino médio (Dissertação em estatística) – ENCE. Rio de Janeiro. 2017.
