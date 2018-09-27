@@ -15,6 +15,14 @@ Pensar no que escrever.
 
 # 2 Revisão Bibliográfica
 
+## 2.1 Um pouco sobre história da educação
+
+A educação no Brasil se inicia com a chegada dos primeiros jesuítas como primeiros educadores ao país a partir de 1549. SAVANI (2011) define esse como o primeiro periodo educacional no Brasil. Esse período é marcado pelo principio colonizador e catequizador, com enfase nos povos indígenas. Neste mesmo periodo, colonizadores tentam escravizar os povos indigenas, os quais são defendidos pelos jesuítas. Tal ação gerou disputas entre estes.
+
+Afim de acabar com tal imbate, o Marquês de Pombal  determina a expulsão dos jesuítas do terrítorio nacional na segunda metadedo século XVIII. Com a Lei de 15 de outubro de 1827 é criado as escolas de primeiras letras em todas as cidades, vilas e lugares mais populosos do Império.
+
+## 2.2 O ENEM
+
 Criado em 1998, o Exame Nacional do Ensino Médio (Enem) tem como objetivo verificar se seus participantes apresentam domínio dos princípios científicos e tecnológicos ao final do ensino médio, , domínio dos princípios científicos e tecnológicos que presidem a produção moderna e se detêm conhecimento das formas contemporâneas de linguagem. 
 Seus resultados deverão possibilitar: 
 
@@ -60,4 +68,6 @@ INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA. Microda
 
 NERY,Thiago Ribeiro. Infraestrutura das escolas como fator em um modelo multinível das
 proficiências dos alunos do ensino médio (Dissertação em estatística) – ENCE. Rio de Janeiro. 2017.
+
+SAVIANI, Dermeval. História das ideias pedagógicas no Brasil. Campinas, Autores Associados, 2011.
 
