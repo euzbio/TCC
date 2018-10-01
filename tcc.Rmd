@@ -11,7 +11,17 @@ number_sections: T
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), por intermédio da Diretoria de Avaliação da Educação Básica, em cumprimento da sua missão de desenvolver e disseminar informações sobre os exames e avaliações da educação básica, disponibiliza os Microdados do Enem 2017.
 
 ## 1.1 Delimitação do tema
-Pensar no que escrever.
+
+A educação no Brasil passou por muitas mudanças, principalmente nas ultimas décadas, onde houve por exemplo a expansão no número de instituições (tanto privadas quanto públicas) e ampliação de acesso. O ENEM se consolida, nesse cenário, como principal acesso ao ensino superior. Ele tem também como proposta ser uma ferramenta de autoavaliação das habilidades desenvolvidas pelo aluno ao final do ensino médio. 
+
+O desenvolvimento de tais habilidades pode ser atribuída ao esforço do aluno, porém há de se considerar fatores externos que possam inlfuenciar seu desempenho. Heranças recebidas pelos alunos, não necessáriamente monetárias, são variáveis que influenciam o apendizado segundo Bourdieu (1986), sendo elas variáveis latentes. A infraestrutura escolar é um fator importante neste contexto, bem como o contexto social em que o estudante está inserido.
+
+O ENEM, bem como o Censo Escolar forncecem informações necessárias para o presente estudo, sendo levado em consideração o ambiente familiar e escolar. O efeito da turma do aluno, no caso ano-série por exemplo, também é um fator influente, porém não temos tal informação a partir dos dados disponíveis.
+
+## 1.2 Objetivos
+
+O objetivo geral deste trabalho é analisar quais variáveis socioeconomicas influenciaram os estudantes que fazeram o ENEM no estado do Paraná no ano de 2017, sendo utilizada uma modelagem multinivel
+
 
 # 2 Revisão Bibliográfica
 
@@ -90,4 +100,8 @@ SAVIANI, Dermeval. História das ideias pedagógicas no Brasil. Campinas, Autore
 FIGUEIRÊDO, Erik; NOGUEIRA, Lauro; SANTANA, Fernanda Leite. Igualdade de Oportunidades: Analisando o papel das circunstâncias no
 desempenho do ENEM. Revista Brasileira de Economia, v. 68, n. 3, p. 373-392, 2014.
 
- MONTEIRO, Matheus;  Cavalcanti, Cláudio; Ostermann, Fernanda; Uma busca por questões de Física do ENEM potencialmente não reprodutoras das desigualdades socioeconômicas. Rev. Bras. Ensino Fís. vol.40 no.3 São Paulo  2018  Epub Jan 18, 2018
+MONTEIRO, Matheus;  Cavalcanti, Cláudio; Ostermann, Fernanda; Uma busca por questões de Física do ENEM potencialmente não reprodutoras das desigualdades socioeconômicas. Rev. Bras. Ensino Fís. vol.40 no.3 São Paulo  2018  Epub Jan 18, 2018.
+
+P. Bourdieu, in: Handbook of Theory and Research for the Sociology of Education, edited by J. Richardson (Greenwood, New York, 1986), p. 241.
+
+RODRIGUES, Erica Castilho; MATOS, Daniel Abud Seabra; FERREIRA, Aline dos Santos. Nível socioeconômico e ensino superior: cálculo e aplicações. Avaliação (Campinas),  Sorocaba ,  v. 22, n. 2, p. 494-511,  Aug.  2017 .   Disponível em <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1414-40772017000200494&lng=en&nrm=iso>. acesso em on  01  Outubro.  2018.  http://dx.doi.org/10.1590/s1414-40772017000200013.
