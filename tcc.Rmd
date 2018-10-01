@@ -61,6 +61,18 @@ Em 2017 a prova contou com 180 questões e uma proposta de redação, sendo apli
 Houve ainda uma segunda aplicação do Enem 2017, ocorrendo nos dias 12 e 13 de dezembro de 2017. Esta data foi destinada para Pessoas Privadas de Liberdade e Jovens sob Medida Socioeducativa que inclua privação de liberdade – PPL, e também  a participantes com direito à reaplicação.
 Neste ano além das provas objetivas e da redação, os participantes do Enem respondem a um questionário que contempla questões sobre seu nível socioeconômico, família, educação e trabalho, havendo uma diminuição no número de questões do questionário, contemplando 27 questões no total.
 
+## 2.3 Estudos sobre o ENEM
+
+Figueirêdo, Nogueira e Santana (2014) investigaram como o background de um indivíduo que realiza ENEM influência em seu desempenho. Para isso, consideraram variáveis como a renda familiar, a escolaridade dos pais, se estudou em escola pública ou privada, a raça, se mora na área urbana ou rural e o índice de qualidade escolar do SAEB.
+Duas abordagens foram tomadas: a primeira assume que o esforço do indivíduo e as circunstâncias em que ele se encontra, ou em que as variáveis foram mensuradas, são independentes. A segunda relaxa essas hipóteses, ou seja, considera que pode existir uma relação entre essas quantidades. Esses modelos foram baseados em estudos realizados anteriormente por Roemer(1998) e Hanushek(1970, 1979, 2007).
+As técnicas utilizadas para mensurar o assunto são baseadas no modelo de classificação não paramétrico, Axioma de Identificação de Roemer, proposto por Roemer e na função de produção educacional, de Hanushek.
+Figueirêdo, Nogueira e Santana (2014) concluíram que as variáveis socioeconômicas consideradas influenciam diretamente no esforço do indivíduo e, consequentemente na sua pontuação. Indivíduos de “baixo background” têm de se esforçar 99,38% mais do que aqueles que possuem “alto background” para terem as mesmas chances de sucesso no exame. Por isso, parece inviável que aqueles participantes penalizados pelas circunstâncias obtenham as melhores notas. Esses resultados são ainda mais extremos na Região Nordeste.
+ 
+Monteiro, Cavalcanti e Ostermann (2018) se baseiam nas ideias de Pierre Bourdieu e descrevem que o aprendizado é influenciado por heranças  culturais advindas do convívio social , constituem o que Bourdieu chama de capital cultural, capital econômico (bens materiais, propriedades e outros) e o capital social (relações sociais com pessoas chave, prestígio, poder político). Capitais culturais  seriam o que a pessoa possui que não é mensurado em objetos ou dinheiro, seriam mais relacionados a traços psicológicos, sendo tais que identifica três estados nos quais esse capital pode ser encontrado: institucionalizado, objetivado e incorporado. . O estado institucionalizado corresponde aos títulos escolares acumulados pelo estudante. O estado objetivado consiste dos bens culturais que o sujeito tem acesso, como livros, revistas, enciclopédias e obras de arte, por exemplo. O mais importante dos estados certamente é o incorporado. A partir desta perspectiva o autor espera encontrar que as variáveis mais importantes estão associados aos capitais culturais incorporados.
+Começam separando os alunos em níveis socioeconômicos através da análise fatorial completa, onde permite separar as questões socioeconômicas em 3 fatores(que coincidiram com os propostos por Bourdieu) e usar o peso destes fatores para representar  os estados, dentre os quais foi utilizado o correspondente ao capital cultural institucionalizado, pois está mais correlacionado com a nota. A partir de tais variáveis, foi utilizada a análise de cluster para se construir níveis socioeconômicos através do método de K-means bivariada.
+Para analisar a dificuldade da questão, os autores usam um modelo logístico de 3 variáveis, para determinar a dificuldade da questão.
+
+
 
 \newpage
 
@@ -75,3 +87,7 @@ proficiências dos alunos do ensino médio (Dissertação em estatística) – E
 
 SAVIANI, Dermeval. História das ideias pedagógicas no Brasil. Campinas, Autores Associados, 2011.
 
+FIGUEIRÊDO, Erik; NOGUEIRA, Lauro; SANTANA, Fernanda Leite. Igualdade de Oportunidades: Analisando o papel das circunstâncias no
+desempenho do ENEM. Revista Brasileira de Economia, v. 68, n. 3, p. 373-392, 2014.
+
+ MONTEIRO, Matheus;  Cavalcanti, Cláudio; Ostermann, Fernanda; Uma busca por questões de Física do ENEM potencialmente não reprodutoras das desigualdades socioeconômicas. Rev. Bras. Ensino Fís. vol.40 no.3 São Paulo  2018  Epub Jan 18, 2018
