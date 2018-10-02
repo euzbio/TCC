@@ -1,9 +1,10 @@
 ---
-title: "Identificar as variáveis/fatores socioeconômicos que influenciam na aprovação ou não dos candidatos inscritos no ENEM em 2017"
+title: "Analise nas variáveis socioeconômicas o ENEM em 2017: que influenciam na aprovação dos candidatos inscritos"
 author: "Marcos Antonio Euzebio de Oliveira"
-output: pdf_document
-toc: T
+output:
+  word_document: default
 number_sections: T
+toc: T
 ---
 
 # 1 INTRODUÇÃO
