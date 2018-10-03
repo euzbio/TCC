@@ -86,8 +86,11 @@ Monteiro, Cavalcanti e Ostermann (2018) se baseiam nas ideias de Pierre Bourdieu
 Começam separando os alunos em níveis socioeconômicos através da análise fatorial completa, onde permite separar as questões socioeconômicas em 3 fatores(que coincidiram com os propostos por Bourdieu) e usar o peso destes fatores para representar  os estados, dentre os quais foi utilizado o correspondente ao capital cultural institucionalizado, pois está mais correlacionado com a nota. A partir de tais variáveis, foi utilizada a análise de cluster para se construir níveis socioeconômicos através do método de K-means bivariada.
 Para analisar a dificuldade da questão, os autores usam um modelo logístico de 3 variáveis, para determinar a dificuldade da questão.
 
+# 3 Metodologia
 
+## 3.1 Modelo de Regressão Multivariado Multinível
 
+Modelos de regressão multivariado multinível é um modelo que contem mais de uma variável resposta. Ele é um modelo ade
 \newpage
 
 # Referências
@@ -96,8 +99,7 @@ BRASIL/MEC. Lei nº. 9.394, de 20 de dezembro de 1996. Lei de Diretrizes e Bases
 
 INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA. Microdados do Enem 2017. Brasília: Inep, 2017. Disponível em: < http://portal.inep.gov.br/web/guest/microdados>. Acesso em: 01 nov. 2017.
 
-NERY,Thiago Ribeiro. Infraestrutura das escolas como fator em um modelo multinível das
-proficiências dos alunos do ensino médio (Dissertação em estatística) – ENCE. Rio de Janeiro. 2017.
+NERY,Thiago Ribeiro. Infraestrutura das escolas como fator em um modelo multinível das proficiências dos alunos do ensino médio (Dissertação em estatística) – ENCE. Rio de Janeiro. 2017.
 
 SAVIANI, Dermeval. História das ideias pedagógicas no Brasil. Campinas, Autores Associados, 2011.
 
@@ -109,3 +111,5 @@ MONTEIRO, Matheus;  Cavalcanti, Cláudio; Ostermann, Fernanda; Uma busca por que
 P. Bourdieu, in: Handbook of Theory and Research for the Sociology of Education, edited by J. Richardson (Greenwood, New York, 1986), p. 241.
 
 RODRIGUES, Erica Castilho; MATOS, Daniel Abud Seabra; FERREIRA, Aline dos Santos. Nível socioeconômico e ensino superior: cálculo e aplicações. Avaliação (Campinas),  Sorocaba ,  v. 22, n. 2, p. 494-511,  Aug.  2017 .   Disponível em <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1414-40772017000200494&lng=en&nrm=iso>. acesso em on  01  Outubro.  2018.  http://dx.doi.org/10.1590/s1414-40772017000200013.
+
+HOX, Joop J. Multilevel analysis : techniques and applications– 2nd ed. Routledge, 2010.
